@@ -11,7 +11,7 @@ caption,th {text-align:left;}
 h1,h2,h3,h4,h5,h6{font-size:100%;}
 q:before,q:after{content:'';}
 
-/* ‘S‘Ìİ’è */
+/* ï¿½Sï¿½Ìİ’ï¿½ */
 html {
 	
 }
@@ -44,7 +44,7 @@ a:active {
 	color: #D1A121;
 }
 iframe{border:0;}
-/* ƒwƒbƒ_[ */
+/* ï¿½wï¿½bï¿½_ï¿½[ */
 div#HEADER {
 	border-top: 4px solid #204460;
 	border-bottom: 1px solid #204460;
@@ -77,7 +77,7 @@ ul#PAN{
 	display: none;
 }
 
-/* ƒƒjƒ…[ */
+/* ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[ */
 div#MENU {
 	background: #507EA1;
 	border-bottom: 1px solid #204460;
@@ -86,7 +86,7 @@ div#MENU {
 	display: none;
 }
 #MENU ul{
-	height: 110px;/*ƒƒjƒ…[•”•ª‚Ì‚‚³*/
+	height: 110px;/*ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½*/
 	padding-left: 15px;
 	background: #507EA1 url(img/menu_bg.png);
 }
@@ -119,7 +119,7 @@ div#MENU {
 	text-decoration: none;
 }
 
-/* ‹L–•”•ª */
+/* ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
 div#KIZI {
 	padding: 1em 15px;
 	border: solid 4px #406480;
@@ -140,7 +140,7 @@ div.text {
 div.textaa {
 	margin: 0.6em 3em 2em 0.2em;
 	font-size: 128%;
-	font-family: "‚l‚r ‚oƒSƒVƒbƒN","MS PGothic","Mona","mona-gothic-jisx0208.1990-0",sans-serif;
+	font-family: "ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N","MS PGothic","Mona","mona-gothic-jisx0208.1990-0",sans-serif;
 	line-height: 1.125;
 }
 .text p, section, aside {
@@ -178,7 +178,7 @@ h5,h6 {
 	color: #507EA1;
 }
 
-/* ƒŠƒXƒg */
+/* ï¿½ï¿½ï¿½Xï¿½g */
 .text ol {
 	margin: 0 0 1em 35px;
 	list-style: decimal;
@@ -198,7 +198,7 @@ dd {
 	margin: 0 0 1em 0.2em;
 }
 
-/* ƒtƒbƒ^[ */
+/* ï¿½tï¿½bï¿½^ï¿½[ */
 div#FOOTER {
 	border-top: 1px solid #204460;
 	border-bottom: 4px solid #204460;
@@ -236,7 +236,7 @@ aside {
 	padding-right: 20px;
 }
 
-/* ‹­’²E’Ç‰ÁEíœ */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½Ç‰ï¿½ï¿½Eï¿½íœ */
 em {
 	font-weight: bold;
 }
@@ -251,7 +251,7 @@ del {
 	text-decoration: line-through;
 }
 
-/* ƒtƒH[ƒ€ */
+/* ï¿½tï¿½Hï¿½[ï¿½ï¿½ */
 
 input {
 	margin-top: 0.5em;
@@ -273,7 +273,7 @@ select {
 	border: solid 1px #507EA1;
 }
 
-/* ˆø—p */
+/* ï¿½ï¿½ï¿½p */
 blockquote {
 	padding-left: 0.8em;
 	margin: 1em;
@@ -283,7 +283,7 @@ cite,q {
 	text-decoration: underline;
 }
 
-/* ®Œ`Ï‚İƒeƒLƒXƒg */
+/* ï¿½ï¿½ï¿½`ï¿½Ï‚İƒeï¿½Lï¿½Xï¿½g */
 pre {
 	padding: 0.3em;
 	border: solid 1px #DADADC;
@@ -291,9 +291,9 @@ pre {
 	font-family: monospace;
 }
 
-/* •¨——v‘f */
-b { font-weight: bold; } /* ‘¾š */
-i { font-style: italic; } /* Î‘Ì */
-big { font-size: 107%; } /* •¶š‘å */
-small { font-size: 85%; } /* •¶š¬ */
-tt { font-family: monospace; } /* “™• */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½f */
+b { font-weight: bold; } /* ï¿½ï¿½ï¿½ï¿½ */
+i { font-style: italic; } /* ï¿½Î‘ï¿½ */
+big { font-size: 107%; } /* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
+small { font-size: 85%; } /* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
+tt { font-family: monospace; } /* ï¿½ï¿½ï¿½ï¿½ */
